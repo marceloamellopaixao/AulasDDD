@@ -22,7 +22,8 @@ public class TesteArrayListDoWhile {
 	}
 	
 	static double valorTotal() {
-		
+		double total = 0;
+		return total;
 	}
 
 	public static void main(String[] args) {
